@@ -1,0 +1,27 @@
+{
+  "name": "quit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "app",
+    "dev": "vite",
+    "build": "vite build",
+    "homepage": "./",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.4",
+    "nodemailer": "^6.9.14",
+    "react-router-dom": "^6.26.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "description": ""
+}
